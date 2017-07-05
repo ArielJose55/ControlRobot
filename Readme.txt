@@ -1,0 +1,1 @@
+Una app Android, para controlar el desplazamiento de un robot oruga por Bluetooth
